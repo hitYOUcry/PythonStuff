@@ -44,5 +44,5 @@ class TestDict(unittest.TestCase):
             value = d.empty
 
 if __name__ == '__main__':
-    unittest.main()  
+    unittest.main()
     
